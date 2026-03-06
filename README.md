@@ -40,10 +40,10 @@ AWS (cloud fundamentals)
 
 ## Projects
 
-🔎 **Python Network Scanner**  
+**Python Network Scanner**  
 Scans common TCP ports and identifies services running on a target machine.
 
-🛡 **Security Log Analyzer**  
+**Security Log Analyzer**  
 Analyzes authentication logs and detects suspicious login activity such as potential brute force attacks.
 
 More projects currently in development.
