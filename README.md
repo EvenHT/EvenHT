@@ -41,12 +41,16 @@ AWS (cloud fundamentals)
 ## Projects
 
 **Python Network Scanner**  
-Scans common TCP ports and identifies services running on a target machine.
+Scans common TCP ports and identifies services running on a target machine.  
+https://github.com/EvenHT/python-network-scanner
 
 **Security Log Analyzer**  
-Analyzes authentication logs and detects suspicious login activity such as potential brute force attacks.
+Analyzes authentication logs and detects suspicious login activity such as potential brute force attacks.  
+https://github.com/EvenHT/security-log-analyzer
 
-More projects currently in development.
+**Web Vulnerability Scanner**  
+Python-based web security scanner that detects SQL injection, XSS vulnerabilities, missing security headers, and exposed directories.  
+https://github.com/EvenHT/web-vulnerability-scanner
 
 ---
 
@@ -62,18 +66,3 @@ Bachelor in Information Technology – Cybersecurity
 - Networking
 - Security tooling and automation
 - Learning new technologies
-
-<!--
-**EvenHT/EvenHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
