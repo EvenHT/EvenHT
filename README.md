@@ -1,68 +1,24 @@
 # Even Hynden Torkildsrud
 
-IT graduate with a specialization in cybersecurity and a strong interest in networking, security, and Python-based tooling.
+Master's student in Information Security at NTNU with a bachelor's degree in Information Technology – Cybersecurity.
 
-I enjoy building practical tools related to network analysis, log analysis, and security automation while continuing to develop my programming and system skills.
-
----
+I'm interested in software development, data analysis and security. I build small Python tools to explore practical security problems, and I'm currently working with data preparation and analysis through my master's studies.
 
 ## Skills
 
-### Programming
-Python • C • Java • JavaScript • SQL • HTML/CSS
-
-### IT & Cybersecurity
-Network scanning  
-Log analysis  
-Vulnerability assessment  
-Web application security testing  
-TCP/IP networking  
-
-### Security & Networking Tools
-Kali Linux  
-Nmap  
-Wireshark  
-OWASP ZAP  
-Burp Suite  
-Hydra  
-John the Ripper  
-Netcat  
-theHarvester  
-Splunk  
-
-### Infrastructure
-Linux  
-Windows  
-Virtual Machines  
-AWS (cloud fundamentals)
-
----
+- **Programming:** Python, Java, JavaScript, SQL, C
+- **Data and development:** pandas, Jupyter, Weka, Git
+- **Security and infrastructure:** Linux, AWS fundamentals, Nmap, Wireshark, Burp Suite, Splunk
 
 ## Projects
 
-**Python Network Scanner**  
-Scans common TCP ports and identifies services running on a target machine.  
-https://github.com/EvenHT/python-network-scanner
-
-**Security Log Analyzer**  
-Analyzes authentication logs and detects suspicious login activity such as potential brute force attacks.  
-https://github.com/EvenHT/security-log-analyzer
-
-**Web Vulnerability Scanner**  
-Python-based web security scanner that detects SQL injection, XSS vulnerabilities, missing security headers, and exposed directories.  
-https://github.com/EvenHT/web-vulnerability-scanner
-
----
+- **[Python Network Scanner](https://github.com/EvenHT/python-network-scanner)** – A socket-based tool that checks common TCP ports and reports open services.
+- **[Security Log Analyzer](https://github.com/EvenHT/security-log-analyzer)** – Parses authentication logs and flags repeated failed logins and other potentially suspicious activity.
+- **[Web Vulnerability Scanner](https://github.com/EvenHT/web-vulnerability-scanner)** – Checks for indicators of possible SQL injection and XSS, missing security headers and exposed directories.
 
 ## Education
 
-Bachelor in Information Technology – Cybersecurity
+- **NTNU:** MSc in Information Security, 2026–2028 (in progress)
+- **Kristiania University of Applied Sciences:** BSc in Information Technology – Cybersecurity, 2022–2025
 
----
-
-## Interests
-
-- Cybersecurity
-- Networking
-- Security tooling and automation
-- Learning new technologies
+As part of my bachelor's project, I worked in a student team on an authorized security assessment for Elkjøp Nordic and helped document the findings and recommendations.
